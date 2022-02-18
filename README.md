@@ -9,4 +9,4 @@ This is a simple implementation of my homolinguistic translator tool, meant to b
 ```
 pip3 install -r requirements.txt
 ```
-3. Run the program, either interactively (`python3 main.py`) or using the input file flag to translate a large amount of text (`python3 main.py --input-file=path/to/input/file`). If you don't provide an input file, you'll be able to type your input directly into the shell.
+3. Run the program, either interactively (`python3 main.py`) or using the input file flag to translate a large amount of text (`python3 main.py --input_file=path/to/input/file`). If you don't provide an input file, you'll be able to type your input directly into the shell.
